@@ -8,3 +8,5 @@ const divInnerHTML = document.getElementById("divInnerHTML") as HTMLDivElement
 hiBtn.addEventListener("click", () => {
   divInnerHTML.innerHTML = "Hi"
 })
+
+console.log("hi1")
