@@ -2,7 +2,7 @@ import { defineConfig } from "vite"
 
 export default defineConfig({
   // für github
-  // base: "/onlinetest/",
+  base: "/onlinetest/",
   // für netlify
-  base: "/",
+  // base: "/",
 })
